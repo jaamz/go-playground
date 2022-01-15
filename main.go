@@ -55,3 +55,6 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 	}
 }
 
+func helpCommand(m *discordgo.MessageCreate) {
+	
+}

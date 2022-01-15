@@ -10,7 +10,6 @@ import (
     "os/signal"
     "strings"
     "syscall"
-
     "github.com/bwmarrin/discordgo"
 )
 
